@@ -21,4 +21,6 @@ fn main() {
     func();
 }
 
-fn func(){ println!("Hello there");}
+fn func(){ 
+    println!("Hello there");
+}
